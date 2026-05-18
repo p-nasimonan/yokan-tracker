@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "yokan-tracker")(type "KiCad")(uri "${KIPRJMOD}/yokan-tracker.pretty")(options "")(descr "Project local footprints"))
+  (lib (name "Resistor_SMD")(type "KiCad")(uri "${KICAD10_FOOTPRINT_DIR}/Resistor_SMD.pretty")(options "")(descr "SMD resistors"))
+  (lib (name "Capacitor_SMD")(type "KiCad")(uri "${KICAD10_FOOTPRINT_DIR}/Capacitor_SMD.pretty")(options "")(descr "SMD capacitors"))
+)
