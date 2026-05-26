@@ -659,7 +659,7 @@
       {
         "filename": "yokan-tracker.kicad_sch",
         "name": "yokan-tracker",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "b0000000-0000-0000-0000-000000000001"
       }
     ],
     "used_designators": "",
@@ -668,7 +668,7 @@
   "sheets": [
     [
       "b0000000-0000-0000-0000-000000000001",
-      ""
+      "yokan-tracker"
     ]
   ],
   "text_variables": {},
